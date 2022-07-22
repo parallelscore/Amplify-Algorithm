@@ -35,7 +35,10 @@ https://neo4j.com/
 
 
 **Your Algorithm will be tested for: **
+
 Speed to build the history of #Amplify^ <You can compare to the top ranking algorithm> 
+
 Creative visualization and ability to communicate with the available data 
+
 Only solution deploy to cloud will be accepted
 
