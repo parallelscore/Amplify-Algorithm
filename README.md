@@ -42,3 +42,4 @@ Creative visualization and ability to communicate with the available data
 
 Only solution deploy to cloud will be accepted
 
+Message @adawodu or @parallelScore for questions or clarifications 
