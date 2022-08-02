@@ -1,7 +1,7 @@
 **Amplify^**
 Unity In Human
 
-Write an Algorithm that Connects all available data to their context with the conecting points provided as clues for organizing the data by context so it can be used to promote awareness. 
+Write an Algorithm that Connects all available data to their context. You will be provided a set of data that will serve as connecting points and context for connected data.  Use the clues below to organize the data by context.  
 
 **Context:** 
 A series of text describing the experiences that inspired a series of tweet are stored in a chat history between <240.351.3678> and <+2348188345257> {This chat history will continue updating until either parties decide to seize communication} 
