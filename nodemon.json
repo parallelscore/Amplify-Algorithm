@@ -2,5 +2,5 @@
     "watch": [""],
     "ext": ".ts,.js",
     "ignore": [],
-    "exec": "ts-node ./twitter-api"
+    "exec": "ts-node ./puppeteer"
   }

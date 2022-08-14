@@ -9,6 +9,8 @@ Access_Token,
 Access_Token_Secret,
 PORT,
 Bearer_Token,
+new_username,
+password
 } = process.env;
 
 const config = {
@@ -17,7 +19,9 @@ const config = {
     access_token: Access_Token as string,
     access_token_secret: Access_Token_Secret as string,
     port: PORT,
-    bearer_token: Bearer_Token as string
+    bearer_token: Bearer_Token as string,
+    username: new_username as string,
+    password: password as string
 };
 
 export default config;
